@@ -1,3 +1,4 @@
+#This algorithm is specified on https://projecteuler.net/
 import math as m
 
 def isPrime(n):
